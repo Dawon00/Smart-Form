@@ -26,7 +26,7 @@ const Container = styled.div`
 `;
 
 const FormContainer = styled.div`
-    width: 400px;
+    width: 40%;
     padding: 20px;
     background-color: #fff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
